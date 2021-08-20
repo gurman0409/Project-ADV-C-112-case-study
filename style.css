@@ -1,0 +1,45 @@
+.title
+{
+    font: 50px;
+    padding-left: 90px;
+    background: cyan;
+    color: darkblue;
+    font-family: 'Special Elite', cursive;
+}
+
+.label-show
+{
+    font-size: 24px;
+    color: red;
+}
+
+#image-show
+{
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 25px white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+body
+{
+    text-align: center;
+    background: coral;
+}
+
+.copy_right_sign {
+    margin-top: 20px;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: orchid;
+    line-height: 3;
+    text-align: center;
+}
+
+#most-accuracy
+{
+    padding-bottom: 10px;
+}
